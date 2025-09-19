@@ -10,7 +10,7 @@
       <a href="https://github.com/AyeshaIjazTabassum?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AyeshaIjazTabassum?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
        <a href="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum/"><img alt="Hits" src="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
-   </p> 
+</p> 
 <!--colorfull line-->
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
