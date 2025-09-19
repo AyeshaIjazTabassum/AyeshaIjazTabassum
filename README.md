@@ -1,11 +1,13 @@
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayesha+Ijaz+;I+hope+you+will+be+fine;Happy+Coding+%3A)" alt="Typing SVG" /></a></h3>
 
 - 👋 Hi, I'm **Ayesha Ijaz** , a Computer Science Graduate from **GC Women University of Pakistan**. I am skilled in Python programming, data structures, and algorithms. Passionate about AI, ML, and software development.
-<a href="https://github.com/2div?tab=followers">
+
+<p align="left">
+<a href="https://github.com/AyeshaIjazTabassum?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/2div?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/2div?tab=repositories&sort=stargazers">
+      <a href="https://github.com/AyeshaIjazTabassum?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-       <a href="https://hits.sh/github.com/2div/2div/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
+       <a href="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
    </p> 
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
