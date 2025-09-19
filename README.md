@@ -1,10 +1,10 @@
-<div align=center>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</div>
-
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayesha+Ijaz+;I+hope+you+will+be+fine;Happy+Coding+%3A)" alt="Typing SVG" /></a></h3>
 
 - 👋 Hi, I'm **Ayesha Ijaz** , a Computer Science Graduate from **GC Women University of Pakistan**. I am skilled in Python programming, data structures, and algorithms. Passionate about AI, ML, and software development.
+
+<div align=center>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
 
 <h2 align="center">📈 Github Stats</h2>
 <p align="center">
