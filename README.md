@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">📫 Reach out to me on</h2>
 <br>
+
 - ⚡ <b>Let's Connect,</b> Would love to have a chat!
 
 <p align="center">
