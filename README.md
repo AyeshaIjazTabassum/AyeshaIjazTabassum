@@ -36,6 +36,7 @@
 <img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=jupyter" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=mysql" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=pandas" />
+<br>
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=numpy" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=matplotlib" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=tensorflow" />
