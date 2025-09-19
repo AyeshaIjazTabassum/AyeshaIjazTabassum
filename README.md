@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 - ⚡ <b>Let's Connect,</b> Would love to have a chat!
 <p align="center">
-  <br>
+<!--   <br> -->
   <a target="_blank"href="https://www.linkedin.com/in/ayesha-ijaztabassum/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a target="_blank"href="https://twitter.com/dewdropxD"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="mailto:ayesha.muhammadijaz@gmail.com?subject=Hello%20Ayesha,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <!--   <a href="https://wordssaysalot.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-2962FF?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://dribbble.com/WordsSayAlot/"><img src="https://img.shields.io/badge/Dribbble-EC498A?&style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
-<!-- <hr> -->
+<hr>
