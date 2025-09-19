@@ -18,7 +18,7 @@
 <!--Languages-->
 <h2 align="center">🧰 Languages and Tools</h2> 
 <ul>
-<li>The languages and tools on which I am working on</li>
+<li>The <b>languages and tools</b> on which I am working on</li>
 </ul>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
@@ -54,7 +54,7 @@
 <h2 align="center">📫 Reach out to me on</h2>
 <br>
 
-- ⚡ <b>Let's Connect,</b> Would love to have a chat!
+<ul><li>⚡ <b>Let's Connect,</b> Would love to have a chat!</li></ul>
 
 <p align="center">
 <!--   <br> -->
