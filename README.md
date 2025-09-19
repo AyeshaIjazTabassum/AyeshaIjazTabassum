@@ -31,9 +31,17 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=python" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=github" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=pycharm" />
-<img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=cpp" />
-<img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=csharp" />
+<img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=cpp" />
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=csharp" />
 <img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=jupyter" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=mysql" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=pandas" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=numpy" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=matplotlib" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=tensorflow" />
+<!-- <img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=cpp" /> -->
+<!-- <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=csharp" /> -->
+<!-- <img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=jupyter" /> -->
 <br/>
 <br>
 <!--Github statistics-->
