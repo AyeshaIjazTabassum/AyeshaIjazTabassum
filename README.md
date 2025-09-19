@@ -4,10 +4,10 @@
 
 <p align="left">
 <a href="https://github.com/AyeshaIjazTabassum?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/2div?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AyeshaIjazTabassum?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/AyeshaIjazTabassum?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/2div?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-       <a href="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum/"><img alt="Hits" src="https://hits.sh/github.com/2div/2div.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AyeshaIjazTabassum?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+       <a href="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum/"><img alt="Hits" src="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
    </p> 
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
