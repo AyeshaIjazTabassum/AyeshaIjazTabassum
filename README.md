@@ -20,19 +20,20 @@
 <ul>
 <li>🤖 The <b>languages and tools</b> on which I am working on</li>
 </ul>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=git" />
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=adobephotoshop" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=anaconda" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=html" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=css3" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=javascript" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=arduino" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=visualstudiocode" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=python" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=github" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=pycharm" />
 <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=cpp" />
-<img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=csharp" />
+<img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=jupyter" />
 <br/>
 <br>
 <!--Github statistics-->
