@@ -1,7 +1,8 @@
+<!--typing heading-->
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayesha+Ijaz+;I+hope+you+will+be+fine;Happy+Coding+%3A)" alt="Typing SVG" /></a></h3>
-
+<!--my introduction-->
 - 👋 Hi, I'm **Ayesha Ijaz** , a Computer Science Graduate from **GC Women University of Pakistan**. I am skilled in Python programming, data structures, and algorithms. Passionate about AI, ML, and software development.
-
+<!--My follows, starsm views-->
 <p align="left">
 <a href="https://github.com/AyeshaIjazTabassum?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AyeshaIjazTabassum?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -9,19 +10,34 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AyeshaIjazTabassum?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
        <a href="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum/"><img alt="Hits" src="https://hits.sh/github.com/AyeshaIjazTabassum/AyeshaIjazTabassum.svg?style=for-the-badge&label=Views&color=ea443a" style="display:none;"/></a>
    </p> 
+<!--colorfull line-->
 <div align=center>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
-
-<h2 align="center">📈 Github Stats</h2>
+<!--Languages-->
+<h2 align="center">🧰 Languages and Tools</h2>                            
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
+<!-- <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> -->
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<!-- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
+<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<!-- <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> -->
+<!-- <img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
+<img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<br />
+<!--Github statistics-->
+<h2 align="center">📈 Github Statistics</h2>
 <p align="center">
     <a href="https://github.com/AyeshaIjazTabassum">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=AyeshaIjazTabassum&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyeshaIjazTabassum&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p> 
-
-
  <p align="center">
    <a href="https://github.com/AyeshaIjazTabassum"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaIjazTabassum&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
