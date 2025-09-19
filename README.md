@@ -18,7 +18,7 @@
 <!--Languages-->
 <h2 align="center">🧰 Languages and Tools</h2> 
 <ul>
-<li>The <b>languages and tools</b> on which I am working on</li>
+<li>🤖 The <b>languages and tools</b> on which I am working on</li>
 </ul>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
