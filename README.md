@@ -1,6 +1,8 @@
 <!--typing heading-->
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayesha+Ijaz+;I+hope+you+will+be+fine;Happy+Coding+%3A)" alt="Typing SVG" /></a></h3>
-<ul> <li>👋 Hi, I'm <b>Ayesha Ijaz</b> , a Computer Science Graduate from <b>GC Women University of Pakistan</b>. I am skilled in Python programming, data structures, and algorithms. Passionate about AI, ML, and software development.<li></ul>
+<ul>
+<li>👋 Hi, I'm <b>Ayesha Ijaz</b> , a Computer Science Graduate from <b>GC Women University of Pakistan</b>. I am skilled in Python programming, data structures, and algorithms. Passionate about AI, ML, and software development.<li>
+</ul>
 <!--My follows, starsm views-->
 <p align="left">
 <a href="https://github.com/AyeshaIjazTabassum?tab=followers">
