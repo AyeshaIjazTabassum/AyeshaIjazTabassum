@@ -27,10 +27,10 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=arduino" />
-<!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=visualstudiocode" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=python" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=github" />
-<!-- <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> -->
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=pycharm" />
 <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=cpp" />
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br/>
