@@ -1,7 +1,7 @@
 
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayesha+Ijaz+;I+hope+you+will+be+fine;Happy+Coding+%3A)" alt="Typing SVG" /></a></h3>
 
-## Github Stats📈:
+<h2 align="center">📈 Github Stats</h2>
 <p align="center">
     <a href="https://github.com/AyeshaIjazTabassum">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyeshaIjazTabassum&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -17,7 +17,6 @@
  </p>
 
 <br>
-
 
 <h2 align="center">📫 Reach out to me on</h2>
 <br>
