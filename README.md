@@ -69,7 +69,7 @@
 <p align="center">
 <!--   <br> -->
   <a target="_blank"href="https://www.linkedin.com/in/ayesha-ijaztabassum/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <a target="_blank"href="https://twitter.com/dewdropxD"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a target="_blank"href="https://lablab.ai/u/@Ayesha-Ijaz"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ayesha.muhammadijaz@gmail.com?subject=Hello%20Ayesha,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.instagram.com/wordssaysalot/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!--   <a href="https://medium.com/@wordssaysalot"><img src ="https://img.shields.io/badge/Medium-111111?&style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
