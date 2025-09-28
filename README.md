@@ -46,7 +46,7 @@
 <br/>
 <br>
 <!--Github Projects-->
-<h2 align="center"> 🗂️ Highlighted Projects and Code Repositories</h2>
+<h2 align="center"> 🗂️ Featured Projects</h2>
 
 <!--Github statistics-->
 <h2 align="center">📈 Github Statistics</h2>
