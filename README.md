@@ -57,6 +57,9 @@
 </p>
 <!--Github statistics-->
 <h2 align="center">📈 Github Statistics</h2>
+<ul>
+<li> Tracking my coding journey through GitHub statistics</li>
+</ul>
 <!-- <p align="center">
     <a href="https://github.com/AyeshaIjazTabassum">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=AyeshaIjazTabassum&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
