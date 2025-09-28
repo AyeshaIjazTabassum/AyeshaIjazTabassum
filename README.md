@@ -81,12 +81,6 @@
 
 </div>
   <br>
-  
-  <!-- Streak Stats -->
-  <img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaIjazTabassum&theme=dark&background=050d24&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="AyeshaIjazTabassum" />
-
-</div>
-<br>
 <!--Contact Info-->
 <h2 align="center">📫 Reach out to me on</h2>
 <br>
