@@ -58,7 +58,7 @@
 <!--Github statistics-->
 <h2 align="center">📈 Github Statistics</h2>
 <ul>
-<li>🧐 Tracking my coding journey through GitHub statistics</li>
+<li>📸 A snapshot of my <b>GitHub activity and contributions</b></li>
 </ul>
 <!-- <p align="center">
     <a href="https://github.com/AyeshaIjazTabassum">
