@@ -69,23 +69,16 @@
    </a>  
  </p> -->
 <div align="center">
-
-  <!-- Top Stats in One Line with Same Height -->
   <div align="center">
-    <img align="center" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&layout=compact&hide_border=true" alt="AyeshaIjazTabassum" />
+    <img align="center" width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&layout=compact&hide_border=true" alt="AyeshaIjazTabassum" />
     &nbsp;
-    <img align="center" width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&repo=convoychat&hide_border=true" alt="AyeshaIjazTabassum" />
+    <img align="center" width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&repo=convoychat&hide_border=true" alt="AyeshaIjazTabassum" />
   </div>
-
   <br>
-  
-  <!-- Streak Stats - Same Width -->
   <img align="center" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaIjazTabassum&theme=dark&background=050d24&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="AyeshaIjazTabassum" />
-
 </div>
-
 <br>
-
+<!--Contact Info-->
 <h2 align="center">📫 Reach out to me on</h2>
 <br>
 
