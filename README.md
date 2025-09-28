@@ -48,9 +48,12 @@
 <!--Github Projects-->
 <h2 align="center"> 🗂️ Featured Projects</h2>
 <p align='justify'>
-👉 <b>mindX:</b><br/>
-mindX is an implementation of a Gödel Machine, conceived as a project for the Internet of Agents Hackathon 2025. It represents a foundational step toward building a fully self-improving, economically viable, and cryptographically secure multi-agent system. The project's ambition is to create the core agents for a sovereign digital polity, a realm where artificial intelligence can operate independently, evolve its capabilities continuously, and participate autonomously in economic systems. This hackathon prototype serves as the initial proving ground for a protocol designed to enable intelligence that is not just tool-like, but truly agentic and self-directed.
-<br>🔗 URL: <a href="https://github.com/AyeshaIjazTabassum/mindX.git">href="https://github.com/AyeshaIjazTabassum/mindX.git</a>
+<ul>
+<li>
+🧠 <b>mindX:</b><br/> mindX is an implementation of a Gödel Machine, conceived as a project for the Internet of Agents Hackathon 2025. It represents a foundational step toward building a fully self-improving, economically viable, and cryptographically secure multi-agent system. The project's ambition is to create the core agents for a sovereign digital polity, a realm where artificial intelligence can operate independently, evolve its capabilities continuously, and participate autonomously in economic systems. This hackathon prototype serves as the initial proving ground for a protocol designed to enable intelligence that is not just tool-like, but truly agentic and self-directed.
+<br>🔗 URL: <a href="https://github.com/AyeshaIjazTabassum/mindX.git">https://github.com/AyeshaIjazTabassum/mindX.git</a>
+</li>
+</ul>
 </p>
 <!--Github statistics-->
 <h2 align="center">📈 Github Statistics</h2>
