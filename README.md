@@ -70,19 +70,16 @@
  </p> -->
 <div align="center">
 
-  <!-- Top Stats in Table for Equal Height -->
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" />
-      </td>
-      <td width="20px"></td> <!-- Spacer -->
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&repo=convoychat&hide_border=true&hide_title=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <div align="center" style="display: flex; justify-content: center; gap: 2%;">
+    <img style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&layout=compact&hide_border=true" alt="Top Languages" />
+    <img style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=050d24&text_color=ffffff&repo=convoychat&hide_border=true" alt="GitHub Stats" />
+  </div>
 
+  <br>
+  
+  <img style="width: 100%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaIjazTabassum&theme=dark&background=050d24&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="AyeshaIjazTabassum" />
+
+</div>
   <br>
   
   <!-- Streak Stats -->
