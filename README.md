@@ -57,7 +57,7 @@
 </p>
 <!--Github statistics-->
 <h2 align="center">📈 Github Statistics</h2>
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/AyeshaIjazTabassum">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=AyeshaIjazTabassum&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyeshaIjazTabassum&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
@@ -67,7 +67,18 @@
    <a href="https://github.com/AyeshaIjazTabassum"> 
      <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaIjazTabassum&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
    </a>  
- </p>
+ </p> -->
+ <p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="AyeshaIjazTabassum" 
+    bg_color=#808080/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyeshaIjazTabassum&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="AyeshaIjazTabassum" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaIjazTabassum&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AyeshaIjazTabassum" /></p>
 
 <br>
 
