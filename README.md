@@ -18,7 +18,7 @@
 <!--Languages-->
 <h2 align="center">🧰 Languages and Tools</h2> 
 <ul>
-<li>🤖 The <b>languages and tools</b> on which I am working on</li>
+<li>🤖 This is my current tech stack and development toolkit</li>
 </ul>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=git" />
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=adobephotoshop" />
@@ -85,10 +85,10 @@
 </div>
   <br>
 <!--Contact Info-->
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Reach out</h2>
 <br>
 
-<ul><li>⚡ <b>Let's Connect,</b> Would love to have a chat!</li></ul>
+<ul><li>⚡ <b>Let's Connect,</b> Feel free to reach out!</li></ul>
 
 <p align="center">
 <!--   <br> -->
