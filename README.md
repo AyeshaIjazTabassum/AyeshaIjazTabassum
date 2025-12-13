@@ -1,7 +1,12 @@
 <h3 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ayesha+Ijaz+;I+hope+you+will+be+fine;Happy+Coding+%3A)" alt="Typing SVG" /></a></h3>
 <p>
 <ul align="justify">
-<li>👋 Hi, I'm <b>Ayesha Ijaz</b> , a Computer Science Graduate from <b>GC Women University, Sialkot of Pakistan</b>. </li><li> I am skilled in Python programming, data structures, and algorithms.</li><li> Passionate about Artificial Intelligence, Machine Learning, and software development.</li><li> Participated in international hackathons and coding competitions.</li><li> Looking to contribute to Python or AI/ML based projects where I can apply my technical knowledge and grow as a developer. </li> <li>Strong problem-solving skills and eager to learn new technologies.</li>
+<li>👋 Hi, I'm <b>Ayesha Ijaz</b> , a Computer Science Graduate from <b>GC Women University, Sialkot of Pakistan</b>.</li>
+<li> I am skilled in <b>Python programming, data structures, and algorithms</b>.</li>
+<li> Passionate about <b>Artificial Intelligence, Machine Learning, and software development</b>.</li>
+<li> Participated in <b>international hackathons and coding competitions</b>.</li>
+<li> Looking to contribute to <b>Python or AI/ML based projects</b> where I can apply my technical knowledge and grow as a developer.</li>
+<li>Strong <b>problem-solving skills</b> and eager to learn new technologies.</li>
 </ul> </p>
 <!--My follows, starsm views-->
 <p align="left">
