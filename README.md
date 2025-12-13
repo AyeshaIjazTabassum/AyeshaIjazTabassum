@@ -2,11 +2,11 @@
 <p>
 <ul align="justify">
 <li>👋 Hi, I'm <b>Ayesha Ijaz</b> , a Computer Science Graduate from <b>GC Women University, Sialkot of Pakistan</b>.</li>
-<li> I am skilled in <b>Python programming, data structures, and algorithms</b>.</li>
-<li> Passionate about <b>Artificial Intelligence, Machine Learning, and software development</b>.</li>
-<li> Participated in <b>international hackathons and coding competitions</b>.</li>
-<li> Looking to contribute to <b>Python or AI/ML based projects</b> where I can apply my technical knowledge and grow as a developer.</li>
-<li>Strong <b>problem-solving skills</b> and eager to learn new technologies.</li>
+<li>🛠️ I am skilled in <b>Python programming, data structures, and algorithms</b>.</li>
+<li>🔥Passionate about <b>Artificial Intelligence, Machine Learning, and software development</b>.</li>
+<li>🚀 Participated in <b>international hackathons and coding competitions</b>.</li>
+<li>✨ Looking to contribute to <b>Python or AI/ML based projects</b> where I can apply my technical knowledge and grow as a developer.</li>
+<li>🤝 Strong <b>problem-solving skills</b> and eager to learn new technologies.</li>
 </ul> </p>
 <!--My follows, starsm views-->
 <p align="left">
