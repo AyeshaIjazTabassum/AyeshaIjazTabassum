@@ -23,7 +23,7 @@
 <!--Languages-->
 <h2 align="center">🧰 Languages and Tools</h2> 
 <ul>
-<li>🤖 This is my current <b> tech stack and development toolkit</b></li>
+<li>🤖 Here is my current <b> tech stack and development toolkit</b></li>
 </ul>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=git" />
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=adobephotoshop" />
