@@ -58,9 +58,10 @@
 🧠 <b>mindX:</b> mindX is an implementation of a Gödel Machine, conceived as a project for the Internet of Agents Hackathon 2025. It represents a foundational step toward building a fully self-improving, economically viable, and cryptographically secure multi-agent system. The project's ambition is to create the core agents for a sovereign digital polity, a realm where artificial intelligence can operate independently, evolve its capabilities continuously, and participate autonomously in economic systems. This hackathon prototype serves as the initial proving ground for a protocol designed to enable intelligence that is not just tool-like, but truly agentic and self-directed.
 <br>🔗 Explore the Project: <a href="https://github.com/AyeshaIjazTabassum/mindX.git">mindx</a>
 </li>
+<br/>
 <li>
-🧠 <b>DutyIn:</b> DutyIn is an AI-driven platform that was built in the Agentic AI Hackathon with IBM watsonx Orchestrate which fixes ineffective meeting follow-ups by automating summaries, action items, deadlines, emails, and task tracking. Powered by IBM watsonx Orchestrate, it uses agentic workflows to assign tasks, schedule reminders, and update dashboards. DutyIn saves time, ensures accountability, and turns every meeting into clear, actionable execution.
-<br>🔗 Explore the Project: <a href="https://github.com/lemaopisang/dutyin.git">mindx</a>
+🗓️ <b>DutyIn:</b> DutyIn is an AI-driven platform that was built in the Agentic AI Hackathon with IBM watsonx Orchestrate which fixes ineffective meeting follow-ups by automating summaries, action items, deadlines, emails, and task tracking. Powered by IBM watsonx Orchestrate, it uses agentic workflows to assign tasks, schedule reminders, and update dashboards. DutyIn saves time, ensures accountability, and turns every meeting into clear, actionable execution.
+<br>🔗 Explore the Project: <a href="https://github.com/lemaopisang/dutyin.git">DutyIn</a>
 </li>
 </ul>
 </p>
