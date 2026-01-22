@@ -2,7 +2,7 @@
 <p>
 <ul align="justify">
 <li>👋 Hi, I'm <b>Ayesha Ijaz</b> , a Computer Science Graduate from <b>GC Women University, Sialkot of Pakistan</b>.</li>
-<li>🛠️ I am skilled in <b>Python programming, Artificial Intelligence, Machine Learning, data structures and algorithms</b>.</li>
+<li>🛠️ I am skilled in <b>Python, Artificial Intelligence, Machine Learning, data structures and algorithms</b>.</li>
 <li>🔥Passionate about <b>Artificial Intelligence, Machine Learning, and software development</b>.</li>
 <li>🚀 Participated in <b>International hackathons and Coding competitions</b>.</li>
 <li>✨ Looking to contribute to <b>Python or AI/ML based projects</b> where I can apply my technical knowledge and grow as a developer.</li>
