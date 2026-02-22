@@ -63,6 +63,11 @@
 🗓️ <b>DutyIn:</b> DutyIn is an AI-driven platform that was built in the <i>Agentic AI Hackathon with IBM watsonx Orchestrate 2025</i> which fixes ineffective meeting follow-ups by automating summaries, action items, deadlines, emails, and task tracking. Powered by IBM watsonx Orchestrate, it uses agentic workflows to assign tasks, schedule reminders, and update dashboards. DutyIn saves time, ensures accountability, and turns every meeting into clear, actionable execution.
 <br>🔗 Explore the Project: <a href="https://github.com/lemaopisang/dutyin.git">DutyIn</a>
 </li>
+<br/>
+<li>
+🛡️ <b>AI-WAF:</b> AI-WAF is an AI-powered Web Application Firewall designed to detect and mitigate unsafe, malicious, or suspicious user inputs in real time. It classifies prompts as Benign, Suspicious, or Malicious, generates a risk score, and provides a clear explanation for each decision.
+<br>🔗 Explore the Project: <a href="https://github.com/AyeshaIjazTabassum/AI-WAF.git">AI-WAF</a>
+</li>
 </ul>
 </p>
 <!--Github statistics-->
