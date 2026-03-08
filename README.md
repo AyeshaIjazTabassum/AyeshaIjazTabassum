@@ -46,7 +46,7 @@
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=matplotlib" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=tensorflow" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=matlab" />
-<!-- <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=csharp" /> -->
+<img align="left" alt="Netlify" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?perline=15&i=netlify" />
 <!-- <img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://skills.syvixor.com/api/icons?i=jupyter" /> -->
 <br/>
 <br>
